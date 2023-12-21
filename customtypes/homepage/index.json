@@ -1,0 +1,9 @@
+{
+  "id": "homepage",
+  "label": "Homepage",
+  "repeatable": false,
+  "json": {
+    "Main": {}
+  },
+  "status": true
+}
